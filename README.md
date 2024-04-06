@@ -39,21 +39,6 @@ The project exceeds the quality level of the provided sample portfolio by at lea
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps:
-
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Run the development server using `npm start`.
-
-## Technologies Used
-
-- React.js
-- Framer Motion
-- GSAP
-- etc. (list any additional libraries used)
-
-## Getting Started
-
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
